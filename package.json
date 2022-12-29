@@ -1,0 +1,52 @@
+{
+  "name": "leafyx-bot-whatsapp",
+  "version": "1.0.0",
+  "description": "leafyx is an simple robot ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryznxx/Leafyx-bot-whatsapp.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "7ryznxx",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "4.4.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "awesome-phonenumber": "^2.64.0",
+    "cfonts": "^3.1.1",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.2",
+    "file-type": "^16.5.3",
+    "fs": "0.0.1-security",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.2",
+    "lodash": "^4.17.21",
+    "lowdb": "^2.1.0",
+    "moment-timezone": "^0.5.40",
+    "mongoose": "^6.2.1",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "node-webpmux": "^3.1.0",
+    "openai": "^3.1.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.31.3",
+    "util": "^0.12.4",
+    "yargs": "^17.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ryznxx/Leafyx-bot-whatsapp/issues"
+  },
+  "homepage": "https://github.com/ryznxx/Leafyx-bot-whatsapp#readme"
+}
