@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryznxx/leafy-template.git"
+    "url": "git+https://github.com/ryznxx/leafyx-template.git"
   },
   "keywords": [
     "whatsapp",
@@ -46,7 +46,7 @@
     "yargs": "^17.2.1"
   },
   "bugs": {
-    "url": "https://github.com/ryznxx/leafy-template/issues"
+    "url": "https://github.com/ryznxx/leafyx-template/issues"
   },
-  "homepage": "https://github.com/ryznxx/leafy-template#readme"
+  "homepage": "https://github.com/ryznxx/leafyx-template#readme"
 }
