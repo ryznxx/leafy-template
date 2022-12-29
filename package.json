@@ -1,14 +1,14 @@
 {
-  "name": "leafyx-bot-whatsapp",
+  "name": "leafyX-open-source",
   "version": "1.0.0",
-  "description": "leafyx is an simple robot ai",
+  "description": "leafyx is an simple to understand",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryznxx/Leafyx-bot-whatsapp.git"
+    "url": "git+https://github.com/ryznxx/leafy-template.git"
   },
   "keywords": [
     "whatsapp",
@@ -46,7 +46,7 @@
     "yargs": "^17.2.1"
   },
   "bugs": {
-    "url": "https://github.com/ryznxx/Leafyx-bot-whatsapp/issues"
+    "url": "https://github.com/ryznxx/leafy-template/issues"
   },
-  "homepage": "https://github.com/ryznxx/Leafyx-bot-whatsapp#readme"
+  "homepage": "https://github.com/ryznxx/leafy-template#readme"
 }
